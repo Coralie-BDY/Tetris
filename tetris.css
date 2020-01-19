@@ -1,0 +1,36 @@
+#score{
+        display: inline-block;
+      }
+
+div{
+     font-size: 25px;
+     font-weight: bold;
+     font-family: monospace;
+     text-align: center;  
+    }
+
+audio{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+
+canvas{
+        display: block;
+        margin:0 auto;
+       }
+
+img{
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+body{
+    background-image: url(tetris.jpg);
+    max-width: 100%;
+    height: auto;
+    }
